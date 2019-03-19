@@ -3,3 +3,5 @@ finso安定坊
 fdajodfisajdfoijnso安定坊
 在克隆目录中修改 files2 文件
 两个版本合并完成
+
+试试fetch命令
