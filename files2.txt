@@ -1,3 +1,5 @@
-
 finso安定坊
 从另一个git文件夹中修改文件并尝试提交
+fdajodfisajdfoijnso安定坊
+在克隆目录中修改 files2 文件
+两个版本合并完成
